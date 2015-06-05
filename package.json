@@ -1,10 +1,10 @@
 {
-  "name": "replace-code",
+  "name": "patch-text",
   "main": "index.js",
   "version": "1.0.0",
   "description": "Make multiple changes to a block of text be providing start and end indices and replacement text",
   "license": "MIT",
-  "repository": "bendrucker/replace-code",
+  "repository": "bendrucker/patch-text",
   "author": {
     "name": "Ben Drucker",
     "email": "bvdrucker@gmail.com",

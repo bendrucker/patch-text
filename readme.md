@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save replace-code
+$ npm install --save patch-text
 ```
 
 
