@@ -1,6 +1,6 @@
 # patch-text [![Build Status](https://travis-ci.org/bendrucker/patch-text.svg?branch=master)](https://travis-ci.org/bendrucker/patch-text)
 
-> Make multiple changes to a block of text be providing start and end indices and replacement text
+> Make multiple changes to a block of text by providing start and end indices and replacement text
 
 
 ## Install
