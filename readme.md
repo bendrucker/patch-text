@@ -9,7 +9,6 @@
 $ npm install --save patch-text
 ```
 
-
 ## Usage
 
 ```js
