@@ -1,7 +1,7 @@
 {
   "name": "patch-text",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make multiple changes to a block of text by providing start and end indices and replacement text",
   "license": "MIT",
   "repository": "bendrucker/patch-text",
