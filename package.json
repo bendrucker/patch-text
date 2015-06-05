@@ -1,7 +1,7 @@
 {
   "name": "replace-code",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Make multiple changes to a block of text be providing start and end indices and replacement text",
   "license": "MIT",
   "repository": "bendrucker/replace-code",
